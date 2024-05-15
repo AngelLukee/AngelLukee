@@ -5,5 +5,5 @@
 
 ### Melhores repositórios:
 
-[![exercicios-de-c](https://github-readme-stats.vercel.app/api/pin/?username=AngelLukee&repo=exercicios-de-c&theme=nord)](https://github.com/seu-usuario/exercicios-de-c)
+[![exercicios-de-c](https://github-readme-stats.vercel.app/api/pin/?username=AngelLukee&repo=Exercicios-de-c&theme=nord)](https://github.com/seu-usuario/Exercicios-de-c)
 
