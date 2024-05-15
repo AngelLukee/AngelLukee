@@ -9,7 +9,7 @@
 
 ### Melhores repositórios:
 
-<a href="https://github.com/seu-usuario/o-caralho-ai">
+<a href="https://github.com/seu-usuario/exercicios-de-c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelLukee&repo=exercicios-de-c&theme=nord" />
 </a>
 
